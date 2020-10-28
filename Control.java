@@ -36,7 +36,10 @@ public class Control {
         addButton();
         initTimer();
     }
-
+    
+    public void abc{
+    }
+    
     public void newGame() {
         time = 0;
         move = 0;
