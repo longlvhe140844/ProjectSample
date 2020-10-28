@@ -167,6 +167,7 @@ public class PuzzleGame extends javax.swing.JFrame {
             }
         });
     }
+    //this is my project puzzle
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     public javax.swing.JLabel Time;
